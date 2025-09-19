@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/st-pete-landing/static/css/main.8a2ab6ef.css",
+    "main.js": "/st-pete-landing/static/js/main.87d13fcb.js",
+    "static/js/453.b0ee1c10.chunk.js": "/st-pete-landing/static/js/453.b0ee1c10.chunk.js",
+    "index.html": "/st-pete-landing/index.html",
+    "main.8a2ab6ef.css.map": "/st-pete-landing/static/css/main.8a2ab6ef.css.map",
+    "main.87d13fcb.js.map": "/st-pete-landing/static/js/main.87d13fcb.js.map",
+    "453.b0ee1c10.chunk.js.map": "/st-pete-landing/static/js/453.b0ee1c10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a2ab6ef.css",
+    "static/js/main.87d13fcb.js"
+  ]
+}
