@@ -65,7 +65,7 @@ function App() {
             {/* Logo Section */}
             <div className="flex items-center">
               <img 
-                src="/images/logo.png" 
+                src="./images/logo.png" 
                 alt="St. Petersburg Web Development" 
                 className="h-12 w-12 md:h-16 md:w-16 object-contain"
               />
@@ -164,7 +164,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url(/images/background.jpg)',
+            backgroundImage: 'url(./images/background.jpg)',
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-br from-navy/80 to-navy-light/80"></div>
@@ -176,7 +176,7 @@ function App() {
             {/* Hero Logo */}
             <div className="flex justify-center mb-6 md:mb-8">
               <img 
-                src="/images/logo.png" 
+                src="./images/logo.png" 
                 alt="St. Petersburg Web Development" 
                 className="h-16 w-16 md:h-24 md:w-24 object-contain"
               />
@@ -266,7 +266,7 @@ function App() {
             <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <div className="h-48 bg-gray-100 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="/images/1.png" 
+                  src="./images/1.png" 
                   alt="Restaurant Website" 
                   className="w-full h-full object-cover"
                 />
@@ -280,7 +280,7 @@ function App() {
             <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <div className="h-48 bg-gray-100 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="/images/2.png" 
+                  src="./images/2.png" 
                   alt="Law Firm Website" 
                   className="w-full h-full object-cover"
                 />
@@ -294,7 +294,7 @@ function App() {
             <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <div className="h-48 bg-gray-100 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="/images/3.png" 
+                  src="./images/3.png" 
                   alt="Retail Store" 
                   className="w-full h-full object-cover"
                 />
@@ -308,7 +308,7 @@ function App() {
             <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <div className="h-48 bg-gray-100 flex items-center justify-center overflow-hidden">
                 <img 
-                  src="/images/4.png" 
+                  src="./images/4.png" 
                   alt="Service Business" 
                   className="w-full h-full object-cover"
                 />
