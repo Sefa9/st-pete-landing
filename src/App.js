@@ -423,7 +423,7 @@ function App() {
               {/* Hidden input for Formspree */}
               <input type="hidden" name="_subject" value="New Contact Form Submission from St. Pete Landing Page" />
               <input type="hidden" name="_replyto" value="" />
-              <input type="hidden" name="_next" value="http://localhost:3000" />
+              <input type="hidden" name="_next" value="https://sefa9.github.io/st-pete-landing" />
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 mb-4 md:mb-6">
                 <div>
